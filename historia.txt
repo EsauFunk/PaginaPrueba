@@ -1,3 +1,4 @@
 Hola, mi nombre es Manuel Esa y tengo 28 años, soy Mexicano.
 Mi comida favorita son los tacos de pastor y el espagueti.
 Me gusta escuchar musica y jugar videojuegos.
+Estoy aprendiendo programacion en Dev.F .
